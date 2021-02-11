@@ -3,7 +3,7 @@
 ## Question 5:
 ##  How have emissions from motor vehicle sources changed from 1999–2008
 ##      in Baltimore City?
-## José Mª Sebastián Carrillo
+
 
 ##########
 ## Step 0A.- Check libraries in the current system.
@@ -21,7 +21,6 @@ if (!require('ggplot2')) {
 ## Step 1.- Read the data from files.
 ##########
 
-# Author <- "José Mª Sebastián Carrillo"
 
 # Variable that contains the name of the file
 dataFileSummary <- "summarySCC_PM25.rds"
