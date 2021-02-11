@@ -6,7 +6,7 @@
 ##      emissions from 1999–2008 for Baltimore City? Which have seen increases
 ##      in emissions from 1999–2008? Use the ggplot2 plotting system to make a
 ##      plot answer this question.
-## José Mª Sebastián Carrillo
+
 
 ##########
 ## Step 0A.- Check libraries in the current system.
@@ -24,7 +24,7 @@ if (!require('ggplot2')) {
 ## Step 1.- Read the data from file.
 ##########
 
-# Author <- "José Mª Sebastián Carrillo"
+
 
 # Variable that contains the name of the file
 dataFileSummary <- "summarySCC_PM25.rds"
