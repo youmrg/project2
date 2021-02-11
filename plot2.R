@@ -4,7 +4,7 @@
 ##  Have total emissions from PM2.5 decreased in the Baltimore City, Maryland
 ##      (fips = "24510") from 1999 to 2008? Use the base plotting system to make
 ##      a plot answering this question.
-## José Mª Sebastián Carrillo
+
 
 ##########
 ## Step 0A.- Check libraries in the current system.
@@ -18,7 +18,7 @@ if (!require('dplyr')) {
 ## Step 1.- Read the data from file.
 ##########
 
-# Author <- "José Mª Sebastián Carrillo"
+
 
 # Variable that contains the name of the file
 dataFileSummary <- "summarySCC_PM25.rds"
