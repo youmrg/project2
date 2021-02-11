@@ -5,7 +5,7 @@
 ##      2008? Using the base plotting system, make a plot showing the total
 ##      PM2.5 emission from all sources for each of the years 1999, 2002, 2005,
 ##      and 2008.
-## José Mª Sebastián Carrillo
+
 
 ##########
 ## Step 0A.- Check libraries in the current system.
@@ -19,7 +19,7 @@ if (!require('dplyr')) {
 ## Step 1.- Read the data from file.
 ##########
 
-# Author <- "José Mª Sebastián Carrillo"
+
 
 # Variable that contains the name of the file
 dataFileSummary <- "summarySCC_PM25.rds"
