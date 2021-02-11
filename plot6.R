@@ -22,7 +22,7 @@ if (!require('ggplot2')) {
 ## Step 1.- Read the data from files.
 ##########
 
-# Author <- "José Mª Sebastián Carrillo"
+
 
 # Variable that contains the name of the file
 dataFileSummary <- "summarySCC_PM25.rds"
