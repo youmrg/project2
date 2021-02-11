@@ -1,13 +1,13 @@
 ## Coursera - Data Science - Universidad Johns Hopkins
 ## Exploratory Data Analysis - Week 4
 ## Check and download "Data for Peer Assessment"
-## José Mª Sebastián Carrillo
+
 
 ##########
 ## Step 1.- Check if the downloaded data already exists.
 ##########
 
-# Author <- "José Mª Sebastián Carrillo"
+
 
 currentFolder <- getwd()
 dataFileZip <- "exdata_data_NEI_data.zip"
